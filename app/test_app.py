@@ -3,7 +3,7 @@ import unittest
 from logic import check_posted_data
 
 
-class TestSnippet(unittest.TestCase):
+# class TestSnippet(unittest.TestCase):
 
     # def test_check_posted_data_first_set(self):
     #     # testing the check_posted_data method with different input sets
